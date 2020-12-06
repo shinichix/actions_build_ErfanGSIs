@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2065/CPH2065EU_11_OTA_0260_all_a8GZ58ExMhTB.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
